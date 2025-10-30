@@ -52,7 +52,7 @@ The app uses a relational database schema that includes:
 ## ⚙️ How to Run the Project
 
 1️⃣ Navigate to Project Folder 
-Tasty-Food-Track-App
+      Tasty-Food-Track-App
 
 2️⃣ Install dependencies
 pip install flask mysql-connector-python
