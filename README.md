@@ -41,10 +41,10 @@ It includes functionalities like **real-time data storage**, **CRUD operations**
 ## 🧠 Database Design
 
 The app uses a relational database schema that includes:
-- **Customer Table:** stores customer details (name, phone, address)
+- **Customer Table:** Stores customer details (name, phone, address)
 - **Categories Table:**  Stores food categories (e.g., Veg, Non-Veg, Desserts) 
-- **Order Table:** records each order placed by a user  
-- **Item Table:** contains details of available dishes
+- **Order Table:** Records each order placed by a user  
+- **Item Table:** Contains details of available dishes
 - **Order_items:**  Links each order to specific dishes and their quantities
 
 ---
@@ -52,16 +52,16 @@ The app uses a relational database schema that includes:
 ## ⚙️ How to Run the Project
 
 1️⃣ Navigate to Project Folder 
-      Tasty-Food-Track-App
+   - Tasty-Food-Track-App
 
 2️⃣ Install dependencies
-pip install flask mysql-connector-python
+   - pip install flask mysql-connector-python
 
 3️⃣Run the Flask app [ Terminal --> New Terminal ]
-python app.py
+   - python app.py
 
 4️⃣ Open your browser
-Running on http://127.0.0.1:5000
+   - Running on http://127.0.0.1:5000
 
 📸 Project Preview
 Screenshot of app UI here:
