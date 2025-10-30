@@ -1,6 +1,8 @@
 
 # 🍴 Tasty Food Track App
 
+ <img width="1362" height="583" alt="Tasty Food Track" src="https://github.com/user-attachments/assets/2e54b137-2635-4390-bcf4-0a1abc96efa3" />
+
 The **Tasty Food Track App** is a web-based application built using **Flask (Python)** and **MySQL** to simulate an **online food ordering platform**.  
 It allows users to browse dishes, add items to their cart, and place orders seamlessly — combining both backend database management and frontend design.
 
