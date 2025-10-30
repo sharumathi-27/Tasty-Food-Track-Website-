@@ -9,7 +9,7 @@ It allows users to browse dishes, add items to their cart, and place orders seam
 ## 🚀 Project Overview
 
 This project demonstrates the integration of frontend and backend technologies to create a dynamic food ordering experience.  
-It includes functionalities like **real-time data storage**, **CRUD operations**, and an **interactive UI** built for user convenience.
+It includes functionalities like **real-time data storage**, **CRUD operations** and an **interactive UI** built for user convenience.
 
 ---
 
@@ -32,7 +32,6 @@ It includes functionalities like **real-time data storage**, **CRUD operations**
 | **Frontend** | HTML, CSS, JavaScript |
 | **Backend** | Flask (Python) |
 | **Database** | MySQL |
-| **Version Control** | Git & GitHub |
 | **IDE** | Visual Studio Code |
 
 ---
@@ -44,7 +43,7 @@ The app uses a relational database schema that includes:
 - **Categories Table:**  Stores food categories (e.g., Veg, Non-Veg, Desserts) 
 - **Order Table:** records each order placed by a user  
 - **Item Table:** contains details of available dishes
-- **order_items:**  Links each order to specific dishes and their quantities
+- **Order_items:**  Links each order to specific dishes and their quantities
 
 ---
 
