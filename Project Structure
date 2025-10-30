@@ -1,0 +1,5 @@
+Tasty-Food-Track-App/
+│
+├── app.py # Main Flask application file
+├── templates/ # Folder containing HTML files
+│ └── app.html # Main frontend page
