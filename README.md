@@ -65,7 +65,6 @@ Running on http://127.0.0.1:5000
 
 📸 Project Preview
 Screenshot of app UI here:
- <img width="1362" height="583" alt="Tasty Food Track" src="https://github.com/user-attachments/assets/2e54b137-2635-4390-bcf4-0a1abc96efa3" />
  <img width="1363" height="596" alt="Order Details" src="https://github.com/user-attachments/assets/960614e6-f161-4602-84c9-5cbda7082444" />
  <img width="1359" height="628" alt="Order Placed" src="https://github.com/user-attachments/assets/d5bbea04-9818-4057-b215-3e9fb44f28b9" />
 
